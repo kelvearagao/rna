@@ -1,4 +1,4 @@
 rna
 ===
 
-Pesquisa sobra rna.
+Pesquisa sobre rna.
